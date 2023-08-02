@@ -15,6 +15,8 @@ Image will be open, but photo app does not have 'previous / next image' button.
 ![BUTTON](https://github.com/bho3538/OpenWindowsPhotoViewer/assets/12496720/68e15988-cef8-4490-a165-21a75260526a)
 (previous / next button visible if you launch photo viewer using 'OpenImageViewer.exe' at command line)
 
+This program will help your shell scripts or shell explorer extension (like context menu ext or shell namespace extension)
+
 # Supported OS
 Windows 11 (Tested on 22H2) <--- new fluent style photo app\
 Windows 10 (Tested on 20H2) <--- old metro style photo app
