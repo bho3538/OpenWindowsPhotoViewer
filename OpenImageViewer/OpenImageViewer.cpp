@@ -50,7 +50,7 @@ INT APIENTRY WinMain(HINSTANCE hInst, HINSTANCE hInstPrev, PSTR cmdline, INT cmd
             }
 
             do {
-                if (!wcscmp(L"PhotosApp.exe", pe32.szExeFile) || !wcscmp(L"Microsoft.Photos.exe", pe32.szExeFile)) {
+                if (!wcscmp(L"PhotosApp.exe", pe32.szExeFile) || !wcscmp(L"Microsoft.Photos.exe", pe32.szExeFile) || !wcscmp(L"PictureflectPhotoViewer.exe", pe32.szExeFile)) {
                     exit = FALSE;
                     break;
                 }
